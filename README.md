@@ -1,1 +1,8 @@
-# .github
+# About DANTE Solutions
+DANTE Solutions is an engineering consulting and software company, specializing in metallurgical process engineering and thermal/stress analyses of metal parts and components. Started in 1982 by founder Dr. B. Lynn Ferguson as Deformation Control Technology, the company has evolved into the premier thermal process modeling company with its DANTE heat treatment simulation software. 
+DANTE Solutions maintains an active program of alloy characterization, process modeling consulting, continued innovation in application to new processes (i.e. vacuum carburizing, high pressure gas quenching), and technical support to our software licensees.
+
+## About DANTE Heat Treat Simulation Software
+DANTE® is the State-of-the-Art in heat treatment simulation software, promoting improved component and process design in heat treatment. DANTE heat treatment simulation software is a coupled thermal, carbon diffusion, solid mechanics finite element based program for heat treatment simulation of steel parts. Engineers can use DANTE to predict the residual stress state in a given part after heat treatment, the evolution and final volume fractions of metallurgical phases, hardness, and part distortion. The DANTE analysis tool couples a multiphase material constitutive model directly with diffusive and martensitic phase transformation kinetics models. For use by metallurgists, process engineers, heat treaters and designers, the heat treatment simulation capabilities of DANTE include heating, carburization, immersion quenching, gas quenching, spray quenching, press or fixtured quenching, and tempering. Additionally, the system is interfaced to popular pre and post processors.
+
+### DANTE Solutions is committed to process engineering and modeling excellence. We look forward to assisting you with your process, mechanical, and metallurgical engineering challenges
